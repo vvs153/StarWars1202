@@ -1,0 +1,8 @@
+.form-control{
+  display: flex;
+  height: 800px;
+  flex-direction: column;
+  background-color: silver;
+  color: blue;
+  font-weight: bold;
+}
